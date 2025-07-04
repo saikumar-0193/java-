@@ -12,9 +12,9 @@ public class AssignCookies {
         for(int i = 0; i < children.length; i++) {
             if(children[i] <= cookies[j]) {
                 count++;
-                 j++;
+               
             }
-           
+             j++;
         }
         System.out.println(count);
     }
