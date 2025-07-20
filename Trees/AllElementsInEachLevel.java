@@ -38,6 +38,7 @@ public class AllElementsInEachLevel {
         return root;
 
     }
+    //input section
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int[] arr = {7,4,3,5,6,33,4};
